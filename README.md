@@ -1,3 +1,2 @@
 # git_test
-eai moleki tudo bao
-Hello odin!
+Hello Odin!
